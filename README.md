@@ -1,7 +1,5 @@
 <div align="center">
 
-# ▓▒░ PINK PIXEL ░▒▓
-
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║  ██████╗ ██╗███╗   ██╗██╗  ██╗    ██████╗ ██╗██╗  ██╗███████╗██╗ ║
@@ -13,7 +11,12 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
+<!-- Header Logo -->
+<img src="https://github.com/user-attachments/assets/4b5dbf95-ed95-42a7-ac41-3c3674c9c5be" alt="Pink Pixel Logo" width="300"/>
+
 ### `> HIGH-TECH BRILLIANCE WITH A GLITCHY RETRO SOUL_`
+
+### *Dream it, Pixel it. ✨*
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2500&pause=500&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+LOADING+CHAOS.EXE...+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%5B+SYSTEM+STATUS%3A+GLORIOUSLY+UNSTABLE+%5D;%E2%9C%A8+PIXEL+MAGIC+INITIALIZED+%E2%9C%A8" alt="Typing SVG" />
 
