@@ -10,7 +10,7 @@
 [![Website](https://img.shields.io/badge/🌐_pinkpixel.dev-FF69B4?style=for-the-badge&logoColor=white)](https://pinkpixel.dev)
 [![GitHub Org](https://img.shields.io/badge/GitHub-pinkpixel--dev-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pinkpixel-dev)
 [![Personal](https://img.shields.io/badge/GitHub-sizzlebop-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sizzlebop)
-[![Discord](https://img.shields.io/badge/Discord-@sizzlebop-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+![Discord](https://img.shields.io/badge/Discord-@sizzlebop-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 [![X](https://img.shields.io/badge/@sizzlebopz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sizzlebopz)
 [![Email](https://img.shields.io/badge/Email-admin@pinkpixel.dev-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@pinkpixel.dev)
 
